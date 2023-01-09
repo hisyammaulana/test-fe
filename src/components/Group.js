@@ -21,7 +21,7 @@ const Group = () => {
               <div className="border-2 border-gray-200 px-2 py-4 mt-4 rounded-lg bg-gray-100">
                 <h2 className="text-gray-400 font-medium">No Task</h2>
               </div>
-              button tambah
+              New Task
             </div>
           </div>
         </div>
